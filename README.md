@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fa6,100:0f172a&height=180&section=header&text=Marco%20Filho&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descSize=18&descAlignY=54" width="100%" />
+<img src="https://capsule-render.vercel.app/api?v=2&type=waving&color=0:1f5fa6,100:0f172a&height=180&section=header&text=Marco%20Filho&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descSize=18&descAlignY=54" width="100%" />
 
 <a href="https://maarkn.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1F5FA6&center=true&vCenter=true&width=680&lines=Zero+to+production%2C+usually+as+the+only+engineer.;TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+React+%C2%B7+NestJS+%C2%B7+Kubernetes;Building+web-access+infrastructure+for+AI+agents." alt="Typing SVG" />
@@ -145,6 +145,6 @@ I'm looking for a **senior full-stack, backend or AI engineering** role with an 
 
 **[maarkn.dev](https://maarkn.dev)** · **[LinkedIn](https://linkedin.com/in/maarkn)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f5fa6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?v=2&type=waving&color=0:0f172a,100:1f5fa6&height=100&section=footer" width="100%" />
 
 </div>
