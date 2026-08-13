@@ -119,8 +119,12 @@ const marco = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maarkN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=1f5fa6&icon_color=1f5fa6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarkN&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=1f5fa6" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/maarkN?style=for-the-badge&logo=github&label=Followers&color=1f5fa6&labelColor=0f172a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/maarkN?style=for-the-badge&logo=github&label=Stars&color=1f5fa6&labelColor=0f172a" alt="Stars" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=maarkN&theme=tokyonight&hide_border=true&ring=1F5FA6&fire=1F5FA6&currStreakLabel=1F5FA6" height="180" alt="Contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarkN&theme=react-dark&hide_border=true&area=true&color=1f5fa6&line=1f5fa6&point=ffffff" width="98%" alt="Activity graph" />
 
