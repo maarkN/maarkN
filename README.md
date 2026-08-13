@@ -120,11 +120,10 @@ const marco = {
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/maarkN?style=for-the-badge&logo=github&label=Followers&color=1f5fa6&labelColor=0f172a" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FmaarkN&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=1f5fa6&labelColor=0f172a&logo=github" alt="Public repos" />
 <img src="https://img.shields.io/github/stars/maarkN?style=for-the-badge&logo=github&label=Stars&color=1f5fa6&labelColor=0f172a" alt="Stars" />
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=maarkN&theme=tokyonight&hide_border=true&ring=1F5FA6&fire=1F5FA6&currStreakLabel=1F5FA6" height="180" alt="Contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarkN&theme=react-dark&hide_border=true&area=true&color=1f5fa6&line=1f5fa6&point=ffffff" width="98%" alt="Activity graph" />
 
