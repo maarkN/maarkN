@@ -25,7 +25,8 @@ const marco = {
   stack: {
     languages: ["TypeScript", "Go", "Python", "Dart", "SQL"],
     backend:   ["Node.js", "NestJS", "FastAPI", "gRPC / Connect-RPC", "Kafka", "DDD", "CQRS"],
-    frontend:  ["React", "Next.js", "Vue", "Astro", "Tailwind"],
+    frontend:  ["React", "Next.js", "Vue", "Nuxt", "Astro", "Tailwind"],
+    mobile:    ["React Native", "Expo", "Flutter"],
     ai:        ["LangGraph", "LangChain", "RAG", "Qdrant", "pgvector", "MCP"],
     infra:     ["Kubernetes", "Docker", "AWS", "GCP", "Postgres", "Redis"],
   },
@@ -68,8 +69,10 @@ const marco = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **AI & Data**
@@ -108,6 +111,7 @@ const marco = {
 
 | | Project | What it does |
 |---|---|---|
+| ☎️ | **[frontdesk-ai](https://github.com/maarkN/frontdesk-ai)** | Bilingual (EN/FR-CA) **AI voice receptionist** for Canadian service SMBs — answers overflow calls, qualifies, books and notifies. **Go** realtime telephony plane (Telnyx/Asterisk, barge-in, degradation ladder) + **Python LangGraph** agent, event-sourced on **NATS JetStream**, React 19 + Expo apps, full OTel/Grafana observability. |
 | 🌐 | **[maarkn.dev](https://github.com/maarkN/maarkn.dev)** | My portfolio — Next.js 16, React 19, strict TypeScript, a **RAG-powered assistant** that answers questions about my work, and a three-theme design system. Self-hosted on Docker/Traefik/EC2. |
 | 🩻 | **[radflow.ai](https://github.com/maarkN/radflow.ai)** | Radiology worklist & dictation cockpit — NestJS microservices over **NATS JetStream**. |
 
