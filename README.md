@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://maarkn.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1F5FA6&center=true&vCenter=true&width=680&lines=Zero+to+production%2C+usually+as+the+only+engineer.;TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+React+%C2%B7+NestJS+%C2%B7+Kubernetes;Building+web-access+infrastructure+for+AI+agents." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1F5FA6&center=true&vCenter=true&width=680&lines=Zero+to+production%2C+usually+as+the+only+engineer.;TypeScript+%C2%B7+Go+%C2%B7+React+%C2%B7+NestJS+%C2%B7+Python+%C2%B7+Kubernetes;Building+web-access+infrastructure+for+AI+agents." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ const marco = {
   focus:     ["backend architecture", "applied generative AI", "developer tooling"],
 
   stack: {
-    languages: ["TypeScript", "Go", "Python", "Dart", "SQL"],
+    languages: ["TypeScript", "Go", "Dart", "Python", "SQL"],
     backend:   ["Node.js", "NestJS", "FastAPI", "gRPC / Connect-RPC", "Kafka", "DDD", "CQRS"],
     frontend:  ["React", "Next.js", "Vue", "Nuxt", "Astro", "Tailwind"],
     mobile:    ["React Native", "Expo", "Flutter"],
@@ -35,7 +35,6 @@ const marco = {
     "a CRM backend rewritten TypeScript → Go in under two months, solo",
     "a VoIP platform on Asterisk that cut telephony cost ~60%",
     "a RAG platform indexing 246 government portals",
-    "a face-recognition service doing 1:N identity search over a vector DB",
   ],
 
   currentlyLearning: ["distributed systems in Go", "LLM evaluation"],
